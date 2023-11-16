@@ -1,4 +1,4 @@
-# new_project
+# LOCAL
 
 ## Ma liste des fromages à pizza préférés :
 
